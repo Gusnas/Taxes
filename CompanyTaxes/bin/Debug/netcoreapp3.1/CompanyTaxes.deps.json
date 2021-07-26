@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CompanyTaxes/1.0.0": {
+        "runtime": {
+          "CompanyTaxes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyTaxes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

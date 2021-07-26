@@ -1,0 +1,13 @@
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\bin\Debug\netcoreapp3.1\CompanyTaxes.exe
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\bin\Debug\netcoreapp3.1\CompanyTaxes.deps.json
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\bin\Debug\netcoreapp3.1\CompanyTaxes.runtimeconfig.json
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\bin\Debug\netcoreapp3.1\CompanyTaxes.runtimeconfig.dev.json
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\bin\Debug\netcoreapp3.1\CompanyTaxes.dll
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\bin\Debug\netcoreapp3.1\CompanyTaxes.pdb
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\obj\Debug\netcoreapp3.1\CompanyTaxes.csprojAssemblyReference.cache
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\obj\Debug\netcoreapp3.1\CompanyTaxes.AssemblyInfoInputs.cache
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\obj\Debug\netcoreapp3.1\CompanyTaxes.AssemblyInfo.cs
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\obj\Debug\netcoreapp3.1\CompanyTaxes.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\obj\Debug\netcoreapp3.1\CompanyTaxes.dll
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\obj\Debug\netcoreapp3.1\CompanyTaxes.pdb
+C:\Users\gustavo.nascimento\source\repos\CompanyTaxes\CompanyTaxes\obj\Debug\netcoreapp3.1\CompanyTaxes.genruntimeconfig.cache
